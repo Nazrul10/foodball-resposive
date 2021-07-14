@@ -4,7 +4,7 @@
 /*start common style 
 --------------------*/
 body{
-    font-family: 'Poppins', sans-serif;
+     font-family: 'Poppins', sans-serif;
      padding: 0;
      margin: 0;
 }
@@ -218,7 +218,7 @@ display: grid;
         flex-wrap: wrap;
     }
     .header-img img{
-        width: 90%;
+        width: 95%;
         margin: auto;
     }
     .head-title{
