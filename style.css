@@ -220,8 +220,8 @@ display: grid;
         width: 100%;
     }
     .head-title{
-        font-size: 25px;
-        line-height: 20px;
+        font-size: 20px;
+        line-height: 30px;
         text-align: center;
     }
     .btn{
