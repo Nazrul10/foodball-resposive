@@ -207,3 +207,32 @@ display: grid;
         width: 100%;
     }
 }
+@media screen and (max-width:480px){
+    .container{
+        width: 100%;
+    }
+    .header-details{
+        flex-wrap: wrap;
+    }
+    .header-img img{
+        width: 100%;
+    }
+    .head-title{
+        font-size: 25px;
+        line-height: 20px;
+        text-align: center;
+    }
+    .btn{
+        position: relative;
+        left: 30%;
+    }
+    .footer-logo img{
+        width: 70%;
+    }
+    .contact-container{
+        grid-template-columns:1fr;
+    }
+    .contact-item:nth-child(3){
+        grid-column: 1;
+     }
+}
