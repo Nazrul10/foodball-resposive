@@ -217,9 +217,13 @@ display: grid;
     .header-details{
         flex-wrap: wrap;
     }
+    .header-img{
+        display: grid;
+    }
     .header-img img{
-        width: 95%;
+        width: 90%;
         margin: auto;
+        justify-self: center;
     }
     .head-title{
         font-size: 20px;
